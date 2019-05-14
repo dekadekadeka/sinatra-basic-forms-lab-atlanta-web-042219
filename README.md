@@ -23,11 +23,11 @@ submission, view the puppy's information.
    `breed`, and `months_old` attributes. You will need to be able to pass these three
    attributes to initialization, as well as readers or accessors for the attributes.
 
-2. In `app.rb` build out a GET request to load a homepage. The homepage
+<!-- 2. In `app.rb` build out a GET request to load a homepage. The homepage
    should go to the main route `/`.
 
 3. The home page will also need a new view `index.erb`. This page should
-   welcome you to the Puppy Adoption Site. Add this view to the controller action.
+   welcome you to the Puppy Adoption Site. Add this view to the controller action. -->
 
 4. Now, we need to create a form for a user to list a new puppy that is
    available for adoption. You can create this form in `views/create_puppy.erb`.
